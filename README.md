@@ -19,3 +19,5 @@ Project Structure:
    *  `.gitignore` - Version control exclusions
 
 ## Included is the redline outline:
+![Fotomatic Design Spec](resources/images/fotomatic_spec_landing_v3_.png)
+<img src="resources/spec-image.png" width="500" alt="Design Spec">
