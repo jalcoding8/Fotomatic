@@ -17,7 +17,7 @@
 Project Structure:
 
    *  `index.html` - Main structure
-   *  `style.css`  - Stylesheets
+   *  `style.css`   - Stylesheets
    *  `.gitignore` - Version control exclusions
 
 ## Included is the redline outline:
