@@ -10,6 +10,7 @@
      The thrust of the project is to refactor some 'broken' html/css for a photography webpage.
    * The README.md utilized the Markdown language syntax
    * VS Code utilized for seamless edits to HTML and CSS.  Needed to include viewport in HTML with the @media tags in CSS so screen sizing addressed.  Then link tags for images needed some slight adjustment as 'resources' missing from path.
+   * https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2026-02-03/818b33f704145504901b4aec1218681a.ico.png
    * Using the PAT puts a knot in my stomach.  I was amazed when my PAT was accepted at first attempt.
    
 
