@@ -11,9 +11,7 @@
    * The README.md utilized the Markdown language syntax
    * VS Code utilized for seamless edits to HTML and CSS.  Needed to include viewport in HTML with the @media tags in CSS so screen sizing addressed.  Then link tags for images needed some slight adjustment as 'resources' missing from path.
    * Using the PAT puts a knot in my stomach.  I was amazed when my PAT was accepted at first attempt.
-   * 
-   <img width="96" height="96" alt="favicon-96x96" src="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2026-02-03/818b33f704145504901b4aec1218681a.ico.png >
-
+   * <img width="50" height="50" alt="favicon-50x50" src="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2026-003/818b33f704145504901b4aec1218681a.ico.png /> 
 ## Technologies
 Project Structure:
 
