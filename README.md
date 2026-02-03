@@ -11,7 +11,8 @@
    * The README.md utilized the Markdown language syntax
    * VS Code utilized for seamless edits to HTML and CSS.  Needed to include viewport in HTML with the @media tags in CSS so screen sizing addressed.  Then link tags for images needed some slight adjustment as 'resources' missing from path.
    * Using the PAT puts a knot in my stomach.  I was amazed when my PAT was accepted at first attempt.
-   * <img width="50" height="50" https://github.com/jalcoding8/Fotomatic/blob/main/camera.jpeg?raw=true />
+   * <img src="camera.jpeg" width="50" height="50" alt="favicon camera image">
+  
      
 ## Technologies
 Project Structure:
